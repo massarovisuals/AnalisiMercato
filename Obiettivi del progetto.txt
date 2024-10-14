@@ -1,0 +1,25 @@
+Obiettivi del progetto
+L'analisi prevede i seguenti step: 
+- Calcolo del rendimento annuale (252 giorni di borsa per il rendimento annuale). 
+
+- Calcolo del rendimento percentuale mensile (basato su 20 giorni di borsa per il rendimento mensile).
+
+
+- Calcolo del rendimento medio giornaliero per ciascun indice e per ciascun giorno della settimana. - Individuazione dei giorni con il rendimento giornaliero più alto e più basso per entrambi gli indici. 
+
+- Calcolo del volume medio giornaliero di scambi per ciascun indice.
+
+Steps del progetto
+1. Calcolo del rendimento percentuale
+Per ciascun indice, sarà calcolato il rendimento percentuale utilizzando la formula della variazione percentuale tra i prezzi di chiusura: 
+- Rendimento mensile: calcolato su un periodo di 20 giorni di borsa. 
+- Rendimento annuale: calcolato su un periodo di 252 giorni di borsa.
+
+2. Rendimento medio giornaliero per giorno della settimana
+Calcolare il rendimento medio giornaliero di ciascun indice per ogni giorno della settimana. Questa analisi permetterà di identificare eventuali trend particolari legati a giorni specifici (ad esempio, l'andamento delle borse il lunedì rispetto agli altri giorni della settimana).
+
+3. Giorni con rendimento massimo e minimo
+Individuare, per ciascun indice, i giorni con il rendimento giornaliero più alto e quelli con il rendimento giornaliero più basso. Questa informazione è utile per analizzare le giornate di estrema volatilità sui mercati e comprenderne le cause.
+
+4. Calcolo del volume medio giornaliero
+Analizzare il volume medio giornaliero di scambi per ciascun indice. Questo dato rappresenta il livello di attività di mercato e può aiutare a capire l'interesse degli investitori nei due indici.

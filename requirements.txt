@@ -1,0 +1,31 @@
+# Core data manipulation and analysis libraries
+numpy==1.21.5
+pandas==1.4.2
+
+# Visualization libraries
+matplotlib==3.5.2
+seaborn==0.11.2
+
+# Jupyter and interactive computing
+jupyter==1.0.0
+notebook==6.4.12
+ipython==8.4.0
+ipykernel==6.15.0
+nbformat==5.4.0
+nbconvert==6.5.0
+
+# Data input/output
+openpyxl==3.0.10  # For Excel file support
+xlrd==2.0.1  # For older Excel file formats
+pyarrow==8.0.0  # For efficient data serialization
+
+# Statistical analysis
+scipy==1.8.1
+statsmodels==0.13.2
+
+# Date and time handling
+python-dateutil==2.8.2
+
+# Progress bars for long-running operations
+tqdm==4.64.0
+
